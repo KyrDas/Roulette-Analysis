@@ -1,5 +1,5 @@
 ---
-title: "Roulette analysis-Under construction"
+title: "Roulette analysis"
 author: "Daskalopoulos Kyriakos"
 output:
   html_document: default
